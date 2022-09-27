@@ -1,0 +1,19 @@
+{
+  "name": "babel-plugin-instrumentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.19.1",
+    "@babel/helper-module-imports": "^7.18.6",
+    "@babel/template": "^7.18.10",
+    "@babel/types": "^7.19.0",
+    "typescript": "^4.8.3"
+  }
+}
